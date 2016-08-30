@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Smooks website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "harp compile pages/ static/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smooks/web.git"
+  },
+  "author": "Tom Fennelly <tom.fennelly@gmail.com> (https://github.com/tfennelly)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smooks/web/issues"
+  },
+  "homepage": "https://github.com/smooks/web#readme"
+}

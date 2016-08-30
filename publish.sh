@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pushd pages
+pushd static
 
 git init
 git remote add webpages git@github.com:smooks/web.git
