@@ -1,6 +1,10 @@
 <span data-page-nav="./community"></span>
 
-### Mailing Lists
+### Source code
+
+All source code is available in the [Smooks Organization on GitHub](https://github.com/smooks).
+
+### Mailing lists
 
 There are 2 mailing lists to which questions can be posted:
 
