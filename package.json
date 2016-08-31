@@ -4,7 +4,8 @@
   "description": "Smooks website",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "harp compile pages/ static/"
+    "build": "harp compile pages/ static/",
+    "server": "harp server pages --port 3000"
   },
   "repository": {
     "type": "git",
