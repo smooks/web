@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/smooks/web/issues"
   },
-  "homepage": "https://github.com/smooks/web#readme"
+  "homepage": "http://www.smooks.org",
+  "dependencies": {
+    "harp": "^0.20.3"
+  }
 }
