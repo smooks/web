@@ -9,6 +9,5 @@ Please submit documentation updates/fixes as PRs.
 
 You need NodeJS. Then, run:
 
-1. `npm install`
-1. `npm run build`
+1. `npm install` (only need to do this if you have not run it before, or the `package.json` has changed)
 1. `./publish.sh`
