@@ -1,5 +1,7 @@
 # Smooks website repository
 
+> The site is available at [www.smooks.org](http://www.smooks.org).
+
 These docs are created using [HarpJS](https://harpjs.com/). See it's docs regarding
 how to run locally etc.
 
